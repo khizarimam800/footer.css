@@ -1,0 +1,20 @@
+/* footer */
+.container span{
+    display: flex;
+  text-transform: uppercase; 
+}
+.container i{
+  margin: 20px;
+  font-size: 25px;
+}.container h5{
+   
+   
+  
+}
+.container img{
+  margin-right: 50px;
+}
+
+.container i:hover{
+    color: orange;
+}
